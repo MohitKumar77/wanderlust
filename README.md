@@ -10,7 +10,6 @@
 <div>
   <h2>🔗 Important Links</h2>
 </div>
-
 <table border="1">
   <tr>
       <td><img src="https://github.com/Meetjain1/wanderlust/assets/133582566/5ca6c472-5c73-41b2-a2df-389cc3e14881.png" alt="Discord Logo" width="50"></td>
@@ -122,3 +121,4 @@ We extend our heartfelt gratitude for your invaluable contribution to our projec
   <img width="90%" src="https://contrib.rocks/image?repo=krishnaacharyaa/wanderlust" />
 </a>
 </div>
+
